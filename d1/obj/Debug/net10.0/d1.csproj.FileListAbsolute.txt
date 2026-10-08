@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/ C#2/week1/day1/d1/bin/Debug/net10.0/d1
+/Users/macbook/Desktop/ C#2/week1/day1/d1/bin/Debug/net10.0/d1.deps.json
+/Users/macbook/Desktop/ C#2/week1/day1/d1/bin/Debug/net10.0/d1.runtimeconfig.json
+/Users/macbook/Desktop/ C#2/week1/day1/d1/bin/Debug/net10.0/d1.dll
+/Users/macbook/Desktop/ C#2/week1/day1/d1/bin/Debug/net10.0/d1.pdb
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.AssemblyInfo.cs
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.dll
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/refint/d1.dll
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.pdb
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/d1.genruntimeconfig.cache
+/Users/macbook/Desktop/ C#2/week1/day1/d1/obj/Debug/net10.0/ref/d1.dll
